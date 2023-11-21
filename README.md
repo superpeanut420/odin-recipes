@@ -1,0 +1,1 @@
+This is a small project where I am making a website that links to different cooking recipes on the web. I will be soley practicing basic HTML use with elements, tags, attributes, and git.
