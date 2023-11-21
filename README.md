@@ -1,1 +1,2 @@
 This is a small project where I am making a website that links to different cooking recipes on the web. I will be soley practicing basic HTML use with elements, tags, attributes, and git.
+After project reflection: Graphically, everything sucks, but the website works as its supposed to. I would like to learn how to create buttons or add some type of color to the site.
